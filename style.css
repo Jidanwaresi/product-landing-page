@@ -168,4 +168,13 @@ main{
     color: #4169e1;
 }
 
-
+#hero-sec2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+.stats-wrapper{
+    display: flex;
+    gap: 8px;
+}
